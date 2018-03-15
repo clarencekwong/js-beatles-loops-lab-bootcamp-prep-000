@@ -7,5 +7,5 @@ function theBeatlesPlay (ar1,ar2) {
 }
 
 function johnLennonFacts (ar1) {
-  
+  while ()
 }
