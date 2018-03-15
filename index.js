@@ -6,4 +6,6 @@ function theBeatlesPlay (ar1,ar2) {
   return ar3
 }
 
-function
+function johnLennonFacts (ar1) {
+  
+}
