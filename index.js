@@ -8,6 +8,7 @@ function theBeatlesPlay (ar1,ar2) {
 
 function johnLennonFacts (ar1) {
   while (i < ar1.length) {
-    
+    ar1[i] = `${ar1[i]}` + '!!!'
   }
+  return ar1
 }
