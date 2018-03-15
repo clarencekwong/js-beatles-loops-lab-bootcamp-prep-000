@@ -10,6 +10,7 @@ function johnLennonFacts (ar1) {
   var i = 0
   while (i < ar1.length) {
     ar1[i] = `${ar1[i]}` + '!!!'
+    i++
   }
   return ar1
 }
